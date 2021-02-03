@@ -1,0 +1,19 @@
+{
+    "name": "renan/l2j-hasher",
+    "description": "package encrypt hash password for L2j",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renan de Souza Oliveira",
+            "email": "renanoliveiradev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "L2j\\L2JHasher\\": "src/"
+        }
+    }
+}
