@@ -4,7 +4,8 @@ namespace L2j\L2JHasher\ServiceProvider;
 
 use Illuminate\Support\ServiceProvider;
 
-class L2JHashServiceProvider extends ServiceProvider {
+class L2JHashServiceProvider extends ServiceProvider 
+{
 
     /**
     * Register the service provider.

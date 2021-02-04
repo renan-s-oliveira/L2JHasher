@@ -4,7 +4,8 @@ namespace L2j\L2JHasher;
    
 use Illuminate\Contracts\Hashing\Hasher as HasherContract;
 
-class L2JHasher implements HasherContract {
+class L2JHasher implements HasherContract 
+{
 
     public function make($value, array $options = array()) 
     {
