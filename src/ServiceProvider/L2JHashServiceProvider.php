@@ -3,6 +3,7 @@
 namespace L2JHasher\ServiceProvider;
 
 use Illuminate\Support\ServiceProvider;
+use L2JHasher\L2JHasher;
 
 class L2JHashServiceProvider extends ServiceProvider 
 {
