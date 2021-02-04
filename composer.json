@@ -1,5 +1,5 @@
 {
-    "name": "renan/l2j-hasher",
+    "name": "renan-s-oliveira/l2j-hasher",
     "description": "package encrypt hash password for L2j",
     "type": "package",
     "license": "MIT",
