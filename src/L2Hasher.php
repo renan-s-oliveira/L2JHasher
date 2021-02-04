@@ -1,6 +1,6 @@
 <?php
 
-namespace L2j\L2JHasher;     
+namespace L2JHasher;     
    
 use Illuminate\Contracts\Hashing\Hasher as HasherContract;
 

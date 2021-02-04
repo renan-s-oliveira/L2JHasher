@@ -1,6 +1,6 @@
 <?php
 
-namespace L2j\L2JHasher\ServiceProvider;
+namespace L2JHasher\ServiceProvider;
 
 use Illuminate\Support\ServiceProvider;
 
