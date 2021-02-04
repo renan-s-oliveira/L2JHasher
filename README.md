@@ -11,6 +11,7 @@ Vá em config/app.php
 Comentar Illuminate\Hashing\HashServiceProvider::class e adicionar L2JHasher\ServiceProvider\L2JHashServiceProvider::class,
 
 //Illuminate\Hashing\HashServiceProvider::class,
+
 L2JHasher\ServiceProvider\L2JHashServiceProvider::class,
 
 Vá em config/fortify.php
