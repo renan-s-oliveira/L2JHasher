@@ -15,5 +15,12 @@
         "psr-4": {
             "L2JHasher\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers":[
+                "L2Jhasher\\ServiceProvider\\L2JHashServiceProvider"
+            ]
+        }
     }
 }
