@@ -13,7 +13,8 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "L2JHasher\\": "src/"
+            "L2JHasher\\ServiceProvider": "src/ServiceProvider",
+            "L2JHasher": "src/"
         }
     }
 }
