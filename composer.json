@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers":[
-                "L2Jhasher\\ServiceProvider\\L2JHashServiceProvider"
+                "L2JHasher\\ServiceProvider\\L2JHashServiceProvider"
             ]
         }
     }
