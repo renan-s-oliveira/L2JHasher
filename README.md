@@ -32,6 +32,7 @@ por
 'username' => 'login',
 ```
 
-## Ajude a manter o projeto mande um PIX de qualquer valor se puder :).
+## Quer ajudar a manter o projeto? 
+## Ajude enviando PIX :)
 
 ![PIX](https://i.ibb.co/n3ww3wp/qrcode-pix.png)
