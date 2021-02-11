@@ -14,6 +14,8 @@ class AddRememberTokenEmailVerifiedAtToAccounts extends Migration
     public function up()
     {
         Schema::table('accounts', function (Blueprint $table) {
+            $table->string('name');
+            $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
             $table->rememberToken();
         });
