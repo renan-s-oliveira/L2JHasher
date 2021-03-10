@@ -1,6 +1,6 @@
 # L2JHasher
 
-Driver de encriptação de senhas de L2J para usar com Laravel 8.
+Driver de encriptação de senhas de L2J usando Laravel 8.
 
 ## Instalação
 ```
